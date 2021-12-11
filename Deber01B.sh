@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #Cambiar la ubicación de lectura
+#Primero salimos de Git
+#Nos ubicamos en Unix
 cd ../../../
 cd unix/data/Saavedra2013
 
@@ -16,14 +18,14 @@ wc -l $file | cut -d " " -f 2 $1
 
 #FILAS
 #Echo nos permite imprimir el texto
-echo "Número de filas: "
+echo "	Número de filas: "
 #wc -l cuenta las filas o lineas de cada archivo .txt
 #cut corta el valor de la fila 1 que es el numero de líneas
 wc -l $file | cut -d " " -f 1 $2
 
 #COLUMNAS
 #Echo nos permite imprimir el texto
-echo "Número de columnas: "
+echo "	Número de columnas: "
 #Head es para tomar la primera fila del archivo, 
 #grep nos permite transformar el caracter " " en  caracteres en lineas, 
 #por lo que wc -l cuenta las lineas

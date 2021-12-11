@@ -1,0 +1,5 @@
+Nombre del documento:  n1.txt
+Número de filas: 
+97
+Número de columnas: 
+80

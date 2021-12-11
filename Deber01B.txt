@@ -1,0 +1,348 @@
+Nombre del documento:
+n1.txt
+	Número de filas: 
+97
+	Número de columnas: 
+80
+Nombre del documento:
+n10.txt
+	Número de filas: 
+14
+	Número de columnas: 
+20
+Nombre del documento:
+n11.txt
+	Número de filas: 
+270
+	Número de columnas: 
+91
+Nombre del documento:
+n12.txt
+	Número de filas: 
+7
+	Número de columnas: 
+72
+Nombre del documento:
+n13.txt
+	Número de filas: 
+61
+	Número de columnas: 
+17
+Nombre del documento:
+n14.txt
+	Número de filas: 
+35
+	Número de columnas: 
+15
+Nombre del documento:
+n15.txt
+	Número de filas: 
+38
+	Número de columnas: 
+11
+Nombre del documento:
+n16.txt
+	Número de filas: 
+118
+	Número de columnas: 
+24
+Nombre del documento:
+n17.txt
+	Número de filas: 
+76
+	Número de columnas: 
+31
+Nombre del documento:
+n18.txt
+	Número de filas: 
+13
+	Número de columnas: 
+14
+Nombre del documento:
+n19.txt
+	Número de filas: 
+10
+	Número de columnas: 
+16
+Nombre del documento:
+n2.txt
+	Número de filas: 
+62
+	Número de columnas: 
+41
+Nombre del documento:
+n20.txt
+	Número de filas: 
+18
+	Número de columnas: 
+7
+Nombre del documento:
+n21.txt
+	Número de filas: 
+19
+	Número de columnas: 
+45
+Nombre del documento:
+n22.txt
+	Número de filas: 
+19
+	Número de columnas: 
+36
+Nombre del documento:
+n23.txt
+	Número de filas: 
+179
+	Número de columnas: 
+26
+Nombre del documento:
+n24.txt
+	Número de filas: 
+80
+	Número de columnas: 
+28
+Nombre del documento:
+n25.txt
+	Número de filas: 
+17
+	Número de columnas: 
+16
+Nombre del documento:
+n26.txt
+	Número de filas: 
+82
+	Número de columnas: 
+40
+Nombre del documento:
+n27.txt
+	Número de filas: 
+27
+	Número de columnas: 
+5
+Nombre del documento:
+n28.txt
+	Número de filas: 
+90
+	Número de columnas: 
+19
+Nombre del documento:
+n29.txt
+	Número de filas: 
+61
+	Número de columnas: 
+25
+Nombre del documento:
+n3.txt
+	Número de filas: 
+25
+	Número de columnas: 
+36
+Nombre del documento:
+n30.txt
+	Número de filas: 
+8
+	Número de columnas: 
+19
+Nombre del documento:
+n31.txt
+	Número de filas: 
+28
+	Número de columnas: 
+25
+Nombre del documento:
+n32.txt
+	Número de filas: 
+45
+	Número de columnas: 
+21
+Nombre del documento:
+n33.txt
+	Número de filas: 
+70
+	Número de columnas: 
+20
+Nombre del documento:
+n34.txt
+	Número de filas: 
+79
+	Número de columnas: 
+25
+Nombre del documento:
+n35.txt
+	Número de filas: 
+14
+	Número de columnas: 
+8
+Nombre del documento:
+n36.txt
+	Número de filas: 
+40
+	Número de columnas: 
+169
+Nombre del documento:
+n37.txt
+	Número de filas: 
+44
+	Número de columnas: 
+13
+Nombre del documento:
+n38.txt
+	Número de filas: 
+51
+	Número de columnas: 
+99
+Nombre del documento:
+n39.txt
+	Número de filas: 
+33
+	Número de columnas: 
+25
+Nombre del documento:
+n4.txt
+	Número de filas: 
+101
+	Número de columnas: 
+11
+Nombre del documento:
+n40.txt
+	Número de filas: 
+28
+	Número de columnas: 
+18
+Nombre del documento:
+n41.txt
+	Número de filas: 
+12
+	Número de columnas: 
+10
+Nombre del documento:
+n42.txt
+	Número de filas: 
+42
+	Número de columnas: 
+8
+Nombre del documento:
+n43.txt
+	Número de filas: 
+55
+	Número de columnas: 
+29
+Nombre del documento:
+n44.txt
+	Número de filas: 
+56
+	Número de columnas: 
+9
+Nombre del documento:
+n45.txt
+	Número de filas: 
+36
+	Número de columnas: 
+61
+Nombre del documento:
+n46.txt
+	Número de filas: 
+58
+	Número de columnas: 
+17
+Nombre del documento:
+n47.txt
+	Número de filas: 
+139
+	Número de columnas: 
+41
+Nombre del documento:
+n48.txt
+	Número de filas: 
+118
+	Número de columnas: 
+49
+Nombre del documento:
+n49.txt
+	Número de filas: 
+47
+	Número de columnas: 
+23
+Nombre del documento:
+n5.txt
+	Número de filas: 
+21
+	Número de columnas: 
+7
+Nombre del documento:
+n50.txt
+	Número de filas: 
+45
+	Número de columnas: 
+46
+Nombre del documento:
+n51.txt
+	Número de filas: 
+8
+	Número de columnas: 
+15
+Nombre del documento:
+n52.txt
+	Número de filas: 
+33
+	Número de columnas: 
+7
+Nombre del documento:
+n53.txt
+	Número de filas: 
+34
+	Número de columnas: 
+13
+Nombre del documento:
+n54.txt
+	Número de filas: 
+126
+	Número de columnas: 
+25
+Nombre del documento:
+n55.txt
+	Número de filas: 
+14
+	Número de columnas: 
+50
+Nombre del documento:
+n56.txt
+	Número de filas: 
+110
+	Número de columnas: 
+207
+Nombre del documento:
+n57.txt
+	Número de filas: 
+14
+	Número de columnas: 
+11
+Nombre del documento:
+n58.txt
+	Número de filas: 
+678
+	Número de columnas: 
+90
+Nombre del documento:
+n59.txt
+	Número de filas: 
+663
+	Número de columnas: 
+130
+Nombre del documento:
+n6.txt
+	Número de filas: 
+9
+	Número de columnas: 
+31
+Nombre del documento:
+n7.txt
+	Número de filas: 
+16
+	Número de columnas: 
+25
+Nombre del documento:
+n8.txt
+	Número de filas: 
+19
+	Número de columnas: 
+33

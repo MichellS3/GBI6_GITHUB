@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #Nos direccionamos al archivo de lectura
+#Es decir primero salimos de Git
+#Luego nos redireccionamos a  Unix
 cd ../../../
 cd unix/data/Saavedra2013/
 

@@ -1,1 +1,1 @@
-# GBI6_GITHUB
+Curso GBI6-G02

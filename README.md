@@ -18,19 +18,19 @@ Una vez generado el archivo abrimos el **nano** aquí vamos a escribir nuestros 
 
 *#!bin/bash*
 
-*cd ../../../
+*cd ../../../*
 
-*cd git/sandbox/GBI6_GITHUB/
+*cd git/sandbox/GBI6_GITHUB/*
 
-*echo "Nombre del archivo:" n1.txt
+*echo "Nombre del archivo:" n1.txt*
 
-*echo "Número de filas: "
+*echo "Número de filas: "*
 
-*wc -l | cut -f 1 $1
+*wc -l | cut -f 1 $1*
 
-*echo "Número de columnas: "
+*echo "Número de columnas: "*
 
-*head -n 1 n1.txt |grep -o " " | wc -l $2
+*head -n 1 n1.txt |grep -o " " | wc -l $2*
 
 Se puede ingresar al archivo Deber01A.sh para una decripción más detallada de cada uno de los comandos. Sin embargo, como se puede observar se puede poner el nombre del archivo de manera directa ya que es un único archivo el que se debe leer
 
@@ -38,27 +38,27 @@ Se puede ingresar al archivo Deber01A.sh para una decripción más detallada de 
 
 De igual manera abrimos el **nano** del archivo Deber01B.sh creado anteriormente. Dentro de este el codigo que se escribe es 
 
-*#!bin/bash
+*#!bin/bash*
 
-*cd ../../../
+*cd ../../../*
 
-*cd git/sandbox/GBI6_GITHUB
+*cd git/sandbox/GBI6_GITHUB*
 
-*for file in Saavedra
+*for file in Saavedra*
 
-*do echo "Nombre del archivo:"
+*do echo "Nombre del archivo:"*
 
-*wc -l $file | cut -f 2 $1
+*wc -l $file | cut -f 2 $1*
 
-*echo "Npumero de filas:"
+*echo "Npumero de filas:"*
 
-*wc -l $file | cut -f 1 $2
+*wc -l $file | cut -f 1 $2*
 
-*echo "Número de columnas"
+*echo "Número de columnas"*
 
-*head -n 1 $file | grep -o " " | wc -l $3
+*head -n 1 $file | grep -o " " | wc -l $3*
 
-*done
+*done*
 
 En este archivo se puede notar que usamor un comando for, este comando es un comando repetitivo que nos permite leer cada uno de los archivos de forma individual. Y como es notorio se uso el comnaod de la Actividad 01 como una base y se modifico. De la misma manera, si se requiere una explicación más a detalle esta se encuentra en el documento Deber1B.sh
 
@@ -68,7 +68,7 @@ Los archivos textos se generaron con el mismo nombre pero con difernte terminal,
 
 *bash Deber01A.sh > Deber01A.txt
 
-Este archivo txt va a guardar las respuestas generadas por el script, y pueden encontradas en el repositorio.
+Este archivo txt va a guardar las respuestas generadas por el script, y pueden encontradas en el repositorio*.
 
 **Envio de archivos**
 
@@ -80,11 +80,11 @@ Una vez enlazado en Atom se abre los archivos generados, y de manera automática
 
 Por otro lado para Git Bash fue necesario una serie de codigos que son:
 
-*git add Deber01A.sh
+*git add Deber01A.sh*
 
-*git commit -m "Deber enviado desde Git Bash"
+*git commit -m "Deber enviado desde Git Bash"*
 
-*git push
+*git push*
 
 De esta manera, *add* puede agregar un archivo a la nube, *commit -m* hace el comentario respctivo del cambio dado, y *push* envia los datos del programa hacia la nube.
 
